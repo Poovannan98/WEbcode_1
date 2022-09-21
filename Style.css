@@ -27,3 +27,9 @@ font-weight: bold;
   color: red;
   font-weight: bold;
 }
+
+.result{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
